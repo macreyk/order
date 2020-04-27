@@ -1,0 +1,13 @@
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\bin\Debug\netcoreapp2.1\OrderManagementService.deps.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\bin\Debug\netcoreapp2.1\OrderManagementService.runtimeconfig.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\bin\Debug\netcoreapp2.1\OrderManagementService.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\bin\Debug\netcoreapp2.1\OrderManagementService.dll
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\bin\Debug\netcoreapp2.1\OrderManagementService.pdb
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.RazorAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.RazorAssemblyInfo.cs
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.dll
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\OrderManagementService\obj\Debug\netcoreapp2.1\OrderManagementService.pdb

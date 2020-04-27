@@ -1,0 +1,13 @@
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\bin\Debug\netcoreapp2.1\ReviewManagementService.deps.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\bin\Debug\netcoreapp2.1\ReviewManagementService.runtimeconfig.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\bin\Debug\netcoreapp2.1\ReviewManagementService.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\bin\Debug\netcoreapp2.1\ReviewManagementService.dll
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.RazorAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.RazorAssemblyInfo.cs
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\bin\Debug\netcoreapp2.1\ReviewManagementService.pdb
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.dll
+C:\Users\vmadmin\Desktop\FinalSubmit\OrderMyFood\src\Services\ReviewManagementService\obj\Debug\netcoreapp2.1\ReviewManagementService.pdb
